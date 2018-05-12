@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Travis, Stuart
     birthdate: 1868
-    deathdate: &id001 1942
+    deathdate: 1942
     gutenberg_agent_id: '32179'
     url: http://www.gutenberg.org/2009/agents/32179
 covers:
@@ -20,10 +20,12 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Klein
   - agent_name: Hornblow, Arthur
     birthdate: 1865
-    deathdate: *id001
+    deathdate: 1942
     gutenberg_agent_id: '6570'
     url: http://www.gutenberg.org/2009/agents/6570
 description: Novelized from the play by Arthur Hornblow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14204#The-Lion-and-The-Mouse--A-Story-Of-American-Life
 gutenberg_issued: '2004-11-29'
 gutenberg_type: Text
 identifiers:
